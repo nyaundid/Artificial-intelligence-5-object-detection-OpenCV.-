@@ -1,0 +1,2 @@
+# Artificial-intelligence-5-object-detection-OpenCV.-
+1.Write a program using Python Keras, MatLab, or any programming language of your choice to  perform object detection that detects anything you plan to detect. a.If you plan to use Python, the only extra package you can install is OpenCV.b.You can reuse the code or examples you found on internet. But, please make sure that you have a VERY clear reference to the place(s)  you obtain your code or example(s) . 
